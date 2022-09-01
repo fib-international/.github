@@ -1,5 +1,5 @@
 <center>
-<img src="logo_green.png">
+<img src="profile/logo_green.png">
 </center>
 
 <h1 align="center">
